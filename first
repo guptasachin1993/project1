@@ -66,6 +66,7 @@ function goBack() {
 		 <button   id="add" type="text" class="cancle" style= background:#08c283;>Add Student</button>
 		  <button  type="text" class="cancle" style=background:#ff3333; >Cancel</button>
 		  <normal>
+		  <save this number>
 		  </div>
 		</form> 
 </div>
