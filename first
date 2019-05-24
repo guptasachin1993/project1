@@ -67,6 +67,7 @@ function goBack() {
 		  <button  type="text" class="cancle" style=background:#ff3333; >Cancel</button>
 		  <normal>
 		  <save this number>
+          <prove what you are>
 		  </div>
 		</form> 
 </div>
